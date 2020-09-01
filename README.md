@@ -1,1 +1,2 @@
-# capstone_design_2
+# 융합캡스톤디자인
+
