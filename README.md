@@ -22,7 +22,7 @@
 > * 프로젝트 지원비 200만원+
 > * 인건비 (업체와 협의) 
 > * 계획: https://github.com/yungbyun/capstone_design_2/blob/master/%EA%B8%B0%EC%97%85%EC%95%A0%EB%A1%9C%ED%95%B4%EA%B2%B0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D.pdf
-> * 기업프로젝트: 
+> * 기업프로젝트: https://github.com/yungbyun/capstone_design_2/blob/master/%EA%B8%B0%EC%97%85%EC%95%A0%EB%A1%9C%ED%95%B4%EA%B2%B0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D.pdf
 
 ## 학점 성적관련 공지!
 > * 실라버스에 언급한 내용
